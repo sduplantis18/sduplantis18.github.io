@@ -2,3 +2,8 @@ body {
 background-color: #edeff0;
 }
 
+#wrapper {
+    max-width: 940px;
+    margin: 0 auto
+}
+
