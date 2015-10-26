@@ -6,6 +6,10 @@ background-color: #edeff0;
     max-width: 940px;
     margin: 0 auto;
     padding: 0 5%;
-    background-color: #3e474f;
+}
+
+#logo {
+    text-align: center;
+    margin: 0;
 }
 
