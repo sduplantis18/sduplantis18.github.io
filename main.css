@@ -4,6 +4,8 @@ background-color: #edeff0;
 
 #wrapper {
     max-width: 940px;
-    margin: 0 auto
+    margin: 0 auto;
+    padding: 0 5%;
+    background: #3e474f;
 }
 
