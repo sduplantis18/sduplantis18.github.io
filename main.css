@@ -14,7 +14,7 @@ a {
     margin: 0;
 }
 
-nav a.selected nav a:hover{
+nav a.selected, nav a:hover{
     color: darkcyan
 }
 
