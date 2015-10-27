@@ -1,5 +1,9 @@
 body {
-background-color: #edeff0;
+    background-color: #edeff0;
+}
+
+a {
+    text-decoration: none;
 }
 
 #wrapper {
