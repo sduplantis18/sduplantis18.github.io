@@ -47,6 +47,11 @@ nav a.selected, nav a:hover{
     color: darkred
 }
 
+a.selected {
+    text-decoration: none;
+    color: white
+}
+
 /***************************
 site body 
 ****************************/ 
