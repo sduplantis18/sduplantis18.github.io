@@ -96,6 +96,11 @@ footer {
     padding-top: 50px;
     color: #ccc;
 }
+
+#social-icon {
+    max-width: 100px;
+    align-content: center;
+}
 /**************************
 IMG Gallery
 ***************************/
