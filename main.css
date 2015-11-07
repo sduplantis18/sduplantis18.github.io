@@ -25,10 +25,11 @@ GENERAL
 Heading
 ***************************/
 header {
-    max-width: 80%;
+    max-width: 1000%;
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     background-image: url(../Images/2406913018_b791a4c347_o.jpg);
+    height: 850px;
 }
 #logo {
     text-align: center;
