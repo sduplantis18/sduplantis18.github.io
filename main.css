@@ -21,6 +21,11 @@ GENERAL
     width: 100%;
 }
 
+.profile-photo {
+    border-radius: 50px;
+    
+}
+
 /**************************
 Heading
 ***************************/
