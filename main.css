@@ -22,7 +22,8 @@ GENERAL
 }
 
 .profile-photo {
-    border-radius: 50px;
+    border-radius:100px;
+    max-width: 20%;
     
 }
 
