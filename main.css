@@ -25,8 +25,7 @@ GENERAL
 Heading
 ***************************/
 header {
-    display: block;
-    max-width: 1000%;
+    max-width: 100%;
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     background-image: url(../Images/2406913018_b791a4c347_o.jpg);
@@ -73,7 +72,7 @@ nav {
     padding: 10px 0;
     margin: 10px 0 0;
     background-color: cadetblue;
-    display: block
+    display: block;
 }
 
 nav ul {
