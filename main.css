@@ -29,7 +29,10 @@ header {
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     background-image: url(../Images/2406913018_b791a4c347_o.jpg);
-    height: 850px;
+    background-size: cover;
+    height: 700px;
+    
+    
 }
 #logo {
     text-align: center;
@@ -69,6 +72,7 @@ nav {
     padding: 10px 0;
     margin: 10px 0 0;
     background-color: cadetblue;
+    display: inline-block;
 }
 
 nav ul {
