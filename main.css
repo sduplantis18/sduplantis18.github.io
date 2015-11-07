@@ -72,7 +72,7 @@ nav {
     padding: 10px 0;
     margin: 10px 0 0;
     background-color: cadetblue;
-    display: inline-block;
+    display: block
 }
 
 nav ul {
