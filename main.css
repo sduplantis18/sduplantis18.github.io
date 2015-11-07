@@ -71,8 +71,7 @@ nav {
     text-align: center;
     padding: 10px 0;
     margin: 10px 0 0;
-    background-color: cadetblue;
-    display: block;
+    background-color: transparent;
 }
 
 nav ul {
